@@ -1,0 +1,7 @@
+rrt:
+  ros__parameters:
+    odom_topic:  "/pf/pose/odom"
+  # segments = Number of points to interpolate to. The bigger the map, the more the number of segments
+  # TODO: Make this automatically infer?
+    segments: 1024 
+    is_sim: False

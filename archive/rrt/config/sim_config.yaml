@@ -1,0 +1,5 @@
+rrt:
+  ros__parameters:
+    odom_topic:  "/pf/pose/odom" #"/ego_racecar/odom"
+    segments: 512
+    is_sim: True
