@@ -145,5 +145,5 @@ Huge thanks to [Felix Jahncke](https://github.com/fjahncke) for making this whol
 
 The Main context for this Software package is contained in the Semester's Thesis "Benchmarking Algorithms for Autonomous Racing" by Jonathan Mohr, supervised by Felix Jahncke.
 
-Felix Jahncke (Website) leads the TUM F1Tenth/RoboRacer project at the Professorship of Autonomous Vehicle Systems under the supervision of Professor Johannes Betz (Website).
+Felix Jahncke ([Website](https://www.mos.ed.tum.de/en/avs/team/felix-jahncke/)) leads the TUM F1Tenth/RoboRacer project at the Professorship of Autonomous Vehicle Systems under the supervision of Professor Johannes Betz ([Website](https://www.mos.ed.tum.de/en/avs/team/prof-dr-ing-johannes-betz/)).
 
