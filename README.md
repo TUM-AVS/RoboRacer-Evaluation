@@ -143,5 +143,7 @@ To calculate the metrics and show the plots simply run the script.
 ## Authors and acknowledgment
 Huge thanks to [Felix Jahncke](https://github.com/fjahncke) for making this whole project possible and laying much of the groundwork. Parts of this code are based on https://github.com/fjahncke/f1tenth_ws_waterloo which is an adjusted version of https://github.com/CL2-UWaterloo/f1tenth_ws. 
 
+The Main context for this Software package is contained in the Semester's Thesis "Benchmarking Algorithms for Autonomous Racing" by Jonathan Mohr, supervised by Felix Jahncke.
 
+Felix Jahncke (Website) leads the TUM F1Tenth/RoboRacer project at the Professorship of Autonomous Vehicle Systems under the supervision of Professor Johannes Betz (Website).
 
