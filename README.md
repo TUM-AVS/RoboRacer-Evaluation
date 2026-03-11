@@ -1,4 +1,4 @@
-# SA_JonathanMohr: Baseline Algorithms and Benchmarking for F1Tenth
+# Baseline Algorithms and Benchmarking for F1Tenth
 This repository contains a benchmarking pipeline for testing algorithms in the F1Tenth Simulator as well as on an actual F1Tenth vehicle accompanying this [paper](Benchmarking_Algorithms_for_Autonomous_Racing.pdf).
 
 
